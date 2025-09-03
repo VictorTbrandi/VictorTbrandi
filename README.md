@@ -23,10 +23,17 @@ Desenvolvedor em formação e apaixonado por tecnologia, com foco em transformar
   </a>
 </p>
 
-#### ⚙️ Back-end e Linguagens
+#### ⚙️ Back-end, Linguagens e Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,swift" />
+    <img src="https://skillicons.dev/icons?i=java,swift,spring,dotnet" />
+  </a>
+</p>
+
+#### 🌐 Front-end
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
@@ -40,7 +47,7 @@ Desenvolvedor em formação e apaixonado por tecnologia, com foco em transformar
 #### 🛠️ Ferramentas de Desenvolvimento
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
   </a>
 </p>
 
